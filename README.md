@@ -20,6 +20,19 @@
 </a>
 </div>
 
+### ‚Í‚¶‚ß‚É(Get Started)
+```
+# Clone the repository:
+git clone https://github.com/da-yama82/Track-Anything.git
+cd Track-Anything
+
+# Install dependencies: 
+pip install -r requirements.txt
+
+cd Track-Anything/workspace
+Launch demo.ipynb
+```
+
 ***Track-Anything*** is a flexible and interactive tool for video object tracking and segmentation. It is developed upon [Segment Anything](https://github.com/facebookresearch/segment-anything), can specify anything to track and segment via user clicks only. During tracking, users can flexibly change the objects they wanna track or correct the region of interest if there are any ambiguities. These characteristics enable ***Track-Anything*** to be suitable for: 
 - Video object tracking and segmentation with shot changes. 
 - Visualized development and data annotation for video object tracking and segmentation.
