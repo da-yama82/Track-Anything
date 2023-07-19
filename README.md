@@ -20,7 +20,7 @@
 </a>
 </div>
 
-### ‚Í‚¶‚ß‚É(Get Started)
+### ã¯ã˜ã‚ã«(Get Started)
 ```
 # Clone the repository:
 git clone https://github.com/da-yama82/Track-Anything.git
